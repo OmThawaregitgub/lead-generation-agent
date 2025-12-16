@@ -1,10 +1,7 @@
-This is an excellent, well-structured `README.md` file! It clearly communicates the agent's purpose, features, setup, and architecture.
-
-Here is the file content, structured and formatted for clarity:
 
 ---
 
-##📄 `README.md`#Lead Generation Web Agent for Akash EU PrimeA sophisticated web agent for identifying, enriching, and ranking high-probability leads for 3D in-vitro models in toxicology and preclinical safety research.
+Lead Generation Web Agent for Akash EU PrimeA sophisticated web agent for identifying, enriching, and ranking high-probability leads for 3D in-vitro models in toxicology and preclinical safety research.
 
 ---
 
