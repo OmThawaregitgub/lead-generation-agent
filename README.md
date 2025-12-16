@@ -2,7 +2,7 @@
 
 ---
 
-##🎯 Features###Core Capabilities* **Lead Identification**: Scan multiple sources for target roles (Director of Toxicology, Head of Preclinical Safety, etc.)
+##🎯 Features###Core Capabilities* ** Lead Identification* * : Scan multiple sources for target roles (Director of Toxicology, Head of Preclinical Safety, etc.)
 * **Data Enrichment**: Fetch business emails, phone numbers, locations using Hunter.io and other APIs
 * **Intelligent Scoring**: Propensity-to-Buy score (0-100) with weighted criteria
 * **Web Dashboard**: Interactive Streamlit app with filtering, search, and export
@@ -41,3 +41,4 @@ CLEARBIT_API_KEY=your_key_here
 ```
 
 ---
+
